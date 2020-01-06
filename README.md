@@ -15,15 +15,16 @@ Clone
 
 Clone the repo:
 
-.. code-block:: bash
+```bash
 
     $ git clone https://github.com/komarserjio/notejam /home/rakhe/cake/spring/
+```
 
 -------
 Install
 -------
 
-Install a JDK 8 and Maven
+Install a JDK 8 and Maven:
 
 .. code-block:: bash
 
