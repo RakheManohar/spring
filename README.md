@@ -6,9 +6,8 @@ Notejam application implemented using Spring framework.
 
 Spring version: 4.2.3
 
-==========================
+
 Installation and launching
-==========================
 
 -----
 Clone
