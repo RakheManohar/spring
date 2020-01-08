@@ -1,4 +1,4 @@
-#FROM openjdk:8-jdk-alpine
+#FROM openjdk:8-jdk
 FROM ubuntu
 COPY . usr/src/myapp
 WORKDIR usr/src/myapp
